@@ -50,5 +50,5 @@
 |    Main Page    |   <img src="public/images/mainpage.gif" width="300px">    |                    - 달력 필터 기능 <br> - 가격 필터 기능                     |   김호준    |
 |     Nav Bar     |   <img src="public/images/mainpage.gif" width="300px">    |                            - 상단 메뉴바 드롭다운                             |   김호준    |
 |  ProductDetail  | <img src="public/images/clientoption.gif" width="300px">  |               - 강의 상세페이지 강의 선택<br> 조건 서버에 전송                |   윤수민    |
-|      Cart       |     <img src="public/images/cart.gif" width="300px">      |                      - 선택상품 삭제<br>- 토스 페이먼츠                       |   이상윤    |
-|     Review      |    <img src="public/images/review.gif" width="300px">     |                                       -                                       |   이상윤    |
+|      <strong>Cart       |     <img src="public/images/cart.gif" width="300px">      |                      - <strong>선택상품 삭제<br>- 토스 페이먼츠                       |   <strong>이상윤    |
+|     <strong>Review      |    <img src="public/images/review.gif" width="300px">     |                                       -                                       |   <strong>이상윤    |
